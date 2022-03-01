@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mad marriage; or, The female fancy of Debtford. Being an account of one Margaret a carpenters wife, (who to salve up the credit of a servant named Mary, who had been dabling with Ch---- Parsons a seaman, who soon after left her and went to sea) dressed her self in mans cloaths and was married to the said Mary, to prevent the shame of a crackt maiden-head. To the tune of, Moggies jealousie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04378</idno>
+            <idno type="STC">Wing M240</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[360]</idno>
+            <idno type="EEBO-CITATION">99887835</idno>
+            <idno type="PROQUEST">ocm99887835</idno>
+            <idno type="VID">183492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183492)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[283])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mad marriage; or, The female fancy of Debtford. Being an account of one Margaret a carpenters wife, (who to salve up the credit of a servant named Mary, who had been dabling with Ch---- Parsons a seaman, who soon after left her and went to sea) dressed her self in mans cloaths and was married to the said Mary, to prevent the shame of a crackt maiden-head. To the tune of, Moggies jealousie.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Deacon, at the Angel in Guilt-spur-street, without Newgate.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "You lasses of London attend me ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Marriage --  Humor --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183492:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>A Mad MARRIAGE; Or, <hi>The Female Fancy of</hi> Debtford.</head>
+            <argument>
+               <p>
+                  <hi>Being an Account of one</hi> Margaret <hi>a Carpenters Wife, (who to ſalve up the Credit of a ſervant named</hi> Mary, <hi>who had been dabling with <hi>Ch<gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Parſons</hi> a Seaman, who ſoon after left her and went to Sea) dreſſed her ſelf in Mans Cloaths and was Married to the ſaid</hi> Mary <hi>to prevent the ſhame of a crackt Maiden-head.</hi>
+               </p>
+            </argument>
+            <opener>
+               <hi>To the Tune of, <hi>Moggies Jealouſie.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>YOu Laſſes of <hi>London</hi> attend me,</l>
+               <l>whilſt I a true Project ſhall tell,</l>
+               <l>Which lately was acted in <hi>Debtford,</hi>
+               </l>
+               <l>and known by the Neighbourhood well:</l>
+               <l>Such things were ne'r heard of before,</l>
+               <l>as will by my ditty be ſhown,</l>
+               <l>Nor Womens inventions to more</l>
+               <l>like to this will for ever be known.</l>
+            </lg>
+            <lg>
+               <l>A Maiden whoſe name it was <hi>Mary,</hi>
+               </l>
+               <l>at the Sign of the Kings-Head did dwell,</l>
+               <l>Who lately we hear did miſcarry,</l>
+               <l>for her belly began for to ſwell:</l>
+               <l>Her Miſtris ſoon ſmelt out the matter,</l>
+               <l>and took her to task for the ſame,</l>
+               <l>When after ſome fullen denyals</l>
+               <l>ſhe freely confeſſed her ſhame.</l>
+            </lg>
+            <lg>
+               <l>And ſaid that <hi>Ch<gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Parſons</hi> a Seaman,</l>
+               <l>had been with her ſomething too bold,</l>
+               <l>Who Courted and promiſ'd her Marriage,</l>
+               <l>and by conſent rummidg'd her hald:</l>
+               <l>And how he had left her dejected,</l>
+               <l>and unto the <hi>Indies</hi> was gone</l>
+               <l>And ſhe by her Miſtris neglected,</l>
+               <l>who gave her no eaſe to her moan.</l>
+            </lg>
+            <lg>
+               <l>She therefore repair'd to the Mother,</l>
+               <l>of him that had truſt up her Wem</l>
+               <l>And pray'd her to look up ſome Linnen,</l>
+               <l>to ſwaddle the Bantling in:</l>
+               <l>Her Son ſhe proteſted was Father,</l>
+               <l>and married they were in the Church,</l>
+               <l>But ſince he is gone to the <hi>Indies,</hi>
+               </l>
+               <l>and leaveth me here in the Lurch.</l>
+            </lg>
+            <p>
+               <pb facs="tcp:183492:2"/>
+               <!-- PDF PAGE 2 -->
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe Old woman hereat amazed,</l>
+               <l>to find a new Daughter in-Law,</l>
+               <l>Deſir'd to know when they marry'd,</l>
+               <l>whereby her affections to draw:</l>
+               <l>And alſo the Certificate</l>
+               <l>ſhe then did deſire to ſee,</l>
+               <l>For if that you tell a falſe Story,</l>
+               <l>you lodge not your Baſtard with me.</l>
+            </lg>
+            <lg>
+               <l>Theſe words did ſo nettle our <hi>Mary</hi>
+               </l>
+               <l>ſhe could not what to deviſe,</l>
+               <l>She ſaw the Old women was careful</l>
+               <l>and would not be put off with lyes:</l>
+               <l>She on the Rack ſtretch'd her invention,</l>
+               <l>and unto a Neighbour did go,</l>
+               <l>And opened all her intention,</l>
+               <l>and pray'd her ſome favour to ſhow.</l>
+            </lg>
+            <lg>
+               <l>Says ſhe Neighbour <hi>Marget,</hi> aſſiſt me,</l>
+               <l>and hear this my pittiful caſe,</l>
+               <l>I know that you may much befriend me,</l>
+               <l>and ſmother my woful diſgrace:</l>
+               <l>If you in Mans habit will dreſs ye,</l>
+               <l>and take up <hi>Ch<gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Parſons</hi> his name,</l>
+               <l>We then in the Church will be married</l>
+               <l>and neither of us ſhall have blame.</l>
+            </lg>
+            <lg>
+               <l>The Carpenters wife ſoon conſented,</l>
+               <l>a Suit of her Huſbands ſhe got</l>
+               <l>The Wedding-day alſo appointed,</l>
+               <l>when ſhe was to act in the Plot:</l>
+               <l>To Saint <hi>Georges Church</hi> they repaired,</l>
+               <l>and thereof the Clerk did inform,</l>
+               <l>Who ſoon had procured the Parſon,</l>
+               <l>that they might be married that morn.</l>
+            </lg>
+            <lg>
+               <l>So ſoon as theſe Females were wedded,</l>
+               <l>the Clerk he was called aſide,</l>
+               <l>Then <hi>Margaret</hi> whiſper'd unto him,</l>
+               <l>and ſaid ſhe had wronged the Bride:</l>
+               <l>By dabling with her before hand</l>
+               <l>and therefo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Certificate,</l>
+               <l>Abundance of kindneſs you'l do me,</l>
+               <l>if that you will it Antedate.</l>
+            </lg>
+            <lg>
+               <l>What is it that money won't do,</l>
+               <l>ſoon anſwered was the requeſt,</l>
+               <l>Then homeward they ſtraight way did go,</l>
+               <l>a great deal of my they expreſt:</l>
+               <l>The Mother of <hi>Parſons</hi> was joyed,</l>
+               <l>a Daughter-in-Law for to find</l>
+               <l>The Certificate being produced,</l>
+               <l>the Mother was loving and kind.</l>
+            </lg>
+            <lg>
+               <l>Providing all things that were needful,</l>
+               <l>her Grand-child when't came to receive,</l>
+               <l>And thought her ſelf bleſt in her Daughter,</l>
+               <l>and did all her ſtories believe:</l>
+               <l>Till on a time <hi>Marget</hi> and <hi>Mary</hi>
+               </l>
+               <l>with ſome other Neighbours did meet,</l>
+               <l>Carrouſing full Bumpers of Brandy,</l>
+               <l>themſelves did diſcover the Cheat.</l>
+            </lg>
+            <lg>
+               <l>The which being noiſed through <hi>Debtford.</hi>
+               </l>
+               <l>the Parſon ſoon of it did hear,</l>
+               <l>Who ſtraightway acquainted the Iuſtice</l>
+               <l>and cauſed them both to appear:</l>
+               <l>Who having examin'd the matter,</l>
+               <l>and found in 'um nothing but lies,</l>
+               <l>He unto the <hi>Round-Houſe</hi> did ſend 'unt</l>
+               <l>to remain there till the next Aſſize.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for <hi>I. Deacon,</hi> at the Angel in <hi>Guilt-ſpur-ſtreet,</hi> without <hi>Newgate.</hi>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
